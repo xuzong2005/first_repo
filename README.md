@@ -1,2 +1,2 @@
 # first_repo
-my first repo
+my first remote repo 
